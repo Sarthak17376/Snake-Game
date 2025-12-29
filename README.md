@@ -63,7 +63,8 @@ The `scoreboard.py` file attempts to read `data.txt` to load the high score. Dep
 3.  Replace `"data.txt"` with the **absolute path** to the file on your computer.
 
 **Example:**
-```python
+```python```
+
 # In scoreboard.py, change this:
 with open("data.txt") as file:
 
@@ -75,7 +76,7 @@ with open("C:/Users/YourName/Desktop/SnakeGame/data.txt") as file:
 1.  Open your terminal or command prompt.
 2.  Navigate to the folder where you downloaded the files.
 3.  Run the game:
-```bash
+```bash```
 python main.py
 
 ## 🕹️ Controls
