@@ -65,10 +65,10 @@ The `scoreboard.py` file attempts to read `data.txt` to load the high score. Dep
 **Example:**
 ```python```
 
-# In scoreboard.py, change this:
+### In scoreboard.py, change this:
 with open("data.txt") as file:
 
-# To your specific location (Example):
+### To your specific location (Example):
 with open("C:/Users/YourName/Desktop/SnakeGame/data.txt") as file:
 
 ## 🚀 How to Run
