@@ -37,7 +37,7 @@ classDiagram
     Snake --|> Turtle : uses
     Food --|> Turtle : inherits
     Scoreboard --|> Turtle : inherits
-
+'''
 ### File Breakdown
 
 * **`main.py`**: The entry point. Sets up the screen, handles the main game loop, and manages key listeners.
